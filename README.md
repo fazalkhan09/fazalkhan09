@@ -1,27 +1,87 @@
-# 💫 About Me:
-About Me:<br><br>🎓 Recent BS Software Engineering graduate from Islamia College University Peshawar (CGPA 3.51)<br><br>🤖 AI Engineer specializing in Machine Learning, Deep Learning, and NLP solutions<br><br>🔬 Former AI Research Intern at Smart-Lab Department, CS-ICUP, focused on emotion detection using advanced neural networks<br><br>🛠️ Experienced in building AI agents and end-to-end AI systems using Python, TensorFlow, and transformers<br><br>💡 Passionate about developing Scalable and intelligent solutions  real-world applications<br><br>🚀 Currently working as AI engineer and polishing my skilss<br><br>👥 I'm looking to collaborate on AI/ML projects and innovative AI agent development<br><br>🌱 I'm currently learning advanced transformer architectures and cloud-based AI deployment<br><br>💬 Ask me about Python, TensorFlow, NLP, or building intelligent chatbots<br><br>⚡ Fun fact: I've led 6+ technical training programs and delivered sessions on Generative AI
+![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
+# 👋 Hello, I'm Fazal Wahid <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@fazal.visuals) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Fazal Wahid) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fazalwahid16203@gmail.com) 
-
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=fazalkhan09&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=fazalkhan09&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fazalkhan09&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=fazalkhan09&theme=graywhite&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=fazalkhan09&limit=5&theme=transparent&combine_all_yearly_contributions=true)
-
+**`AI Engineer (Intelligent Systems/Automation/RAG)`**
 ---
-[![](https://visitcount.itsvg.in/api?id=fazalkhan09&icon=10&color=12)](https://visitcount.itsvg.in)
+I'm an AI Engineer specializing in building production-ready intelligent systems. I bridge the gap between AI experimentation and real-world deployment by creating systems that don't just chat—they work.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Currently at **Tech Emulsion**, I focus on moving AI out of the playground and into production, building RAG-based systems, autonomous agents, and automation workflows that solve actual business problems.
+
+## 🚀 What I'm Focused On
+
+- Building **Autonomous AI Agents** that can use tools and make decisions beyond simple prompts
+- Designing **RAG systems** with proper context retrieval using LangChain, vector databases (FAISS), and LLMs
+- Creating **Workflow Automation** solutions connecting AI to real business processes (n8n, Zapier)
+- Implementing **Scalable RAG** architectures that maintain context without hallucinations
+- Developing **Multi-Agent Systems** for complex task orchestration
+
+## 💡 Ask Me About
+- **AI Agent Development**: Building systems that use tools, make decisions, and operate autonomously
+- **RAG Systems**: LangChain, LangGraph, vector databases, semantic search, context management
+- **LLM Integration**: Working with Groq, OpenAI, Huawei Cloud APIs for production systems
+- **Workflow Automation**: Connecting AI to business logic using n8n and Zapier
+- **NLP & Deep Learning**: LSTM, GRU, Transformers, sentiment analysis, text classification
+- **Python Development**: Building APIs, chatbots, and ML pipelines
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+## ⚡ GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fazalkhan09&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
+</p>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+# Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"/>
+
+| Category | Skills |
+|----------|--------|
+| **AI/ML Frameworks** | <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> |
+| **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/> |
+| **Vector Databases** | <img src="https://img.shields.io/badge/FAISS-00ADD8?style=for-the-badge&logo=meta&logoColor=white"/> <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Chroma-FF6B6B?style=for-the-badge&logoColor=white"/> |
+| **LLM APIs** | <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Huawei_Cloud-FF0000?style=for-the-badge&logo=huawei&logoColor=white"/> <img src="https://img.shields.io/badge/Anthropic-000000?style=for-the-badge&logoColor=white"/> |
+| **Automation Tools** | <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/> <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white"/> <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logoColor=white"/> |
+| **Database** | <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> |
+| **Cloud & DevOps** | <img src="https://img.shields.io/badge/Huawei_Cloud-FF0000?style=for-the-badge&logo=huawei&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> |
+| **IDE & Environment** | <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white"/> |
+| **NLP & Data** | <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white"/> <img src="https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> |
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+## 🌐 Connect With Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/fazal-wahid-627559347)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fazalkhan09)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fazalwahid16203@gmail.com)
+
+<details>
+<summary><h3>💻 Fazal's AI Journey</h3></summary>
+I started with the fundamentals—Python, algorithms, and data structures. Then moved into machine learning, building models for classification, regression, and NLP tasks using scikit-learn, TensorFlow, and PyTorch.
+
+As AI evolved from simple ML models to LLMs, I shifted focus to what I call "applied AI engineering"—taking these powerful models and making them actually useful. That meant learning LangChain, building RAG systems that don't hallucinate, designing multi-agent workflows, and integrating everything into production environments.
+
+Now I work on autonomous agents that can retrieve context from vector databases, call APIs, make decisions, and execute complex workflows. I've built PDF QA systems with semantic search, YouTube transcript chatbots with RAG, and workflow automations that connect AI to real business processes.
+
+The gap I'm bridging isn't technical—it's practical. It's the difference between "having data" and "actually using it," between ChatGPT demos and systems that run in production. When I'm not coding, I'm researching new AI architectures, experimenting with agent frameworks, or exploring how to make AI systems more reliable and less prone to hallucination.
+</details>
+
+<hr>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fazalkhan09&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fazalkhan09&theme=radical" alt="GitHub Streaks" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fazalkhan09&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
