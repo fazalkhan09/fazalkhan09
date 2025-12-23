@@ -1,45 +1,27 @@
-💫 About Me:
-About Me:
-
-🎓 Recent BS Software Engineering graduate from Islamia College University Peshawar (CGPA 3.51)
-
-🤖 AI Engineer specializing in Machine Learning, Deep Learning, and NLP solutions
-
-🔬 Former AI Research Intern at Smart-Lab Department, CS-ICUP, focused on emotion detection using advanced neural networks
-
-🛠️ Experienced in building AI agents and end-to-end AI systems using Python, TensorFlow, and transformers
-
-💡 Passionate about developing Scalable and intelligent solutions real-world applications
-
-🚀 Currently working as AI engineer and polishing my skilss
-
-👥 I’m looking to collaborate on AI/ML projects and innovative AI agent development
-
-🌱 I’m currently learning advanced transformer architectures and cloud-based AI deployment
-
-💬 Ask me about Python, TensorFlow, NLP, or building intelligent chatbots
-
-⚡ Fun fact: I’ve led 6+ technical training programs and delivered sessions on Generative AI
-
-🌐 Socials:
-Instagram [LinkedIn](https://linkedin.com/in/Fazal Wahid) email
-
-💻 Tech Stack:
-Dart Java JavaScript Python PowerShell TypeScript Windows Terminal FastAPI Flask Next JS NodeJS NPM Streamlit Socket.io Vite Postgres Redis Supabase MongoDB Canva Figma Keras Matplotlib mlflow NumPy Pandas PyTorch scikit-learn Scipy TensorFlow GitLab CI GitHub Actions Git GitHub GitLab
-
-📊 GitHub Stats:
+# 💫 About Me:
+About Me:<br><br>🎓 Recent BS Software Engineering graduate from Islamia College University Peshawar (CGPA 3.51)<br><br>🤖 AI Engineer specializing in Machine Learning, Deep Learning, and NLP solutions<br><br>🔬 Former AI Research Intern at Smart-Lab Department, CS-ICUP, focused on emotion detection using advanced neural networks<br><br>🛠️ Experienced in building AI agents and end-to-end AI systems using Python, TensorFlow, and transformers<br><br>💡 Passionate about developing Scalable and intelligent solutions  real-world applications<br><br>🚀 Currently working as AI engineer and polishing my skilss<br><br>👥 I'm looking to collaborate on AI/ML projects and innovative AI agent development<br><br>🌱 I'm currently learning advanced transformer architectures and cloud-based AI deployment<br><br>💬 Ask me about Python, TensorFlow, NLP, or building intelligent chatbots<br><br>⚡ Fun fact: I've led 6+ technical training programs and delivered sessions on Generative AI
 
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@fazal.visuals) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Fazal Wahid) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fazalwahid16203@gmail.com) 
 
+# 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=fazalkhan09&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=fazalkhan09&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fazalkhan09&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=fazalkhan09&theme=graywhite&no-frame=true&no-bg=false&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-🏆 GitHub Trophies
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=fazalkhan09&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
+---
+[![](https://visitcount.itsvg.in/api?id=fazalkhan09&icon=10&color=12)](https://visitcount.itsvg.in)
 
-✍️ Random Dev Quote
-
-
-🔝 Top Contributed Repo
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
