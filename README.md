@@ -1,6 +1,6 @@
-[33bb2abd486ea3909d7346bb2296e420a6d819c8](https://github.com/user-attachments/assets/4371ad12-0e52-4ca0-b187-5983696d03a3)
+(https://github.com/user-attachments/assets/4371ad12-0e52-4ca0-b187-5983696d03a3)
 
-# 👋 Hello, I'm Fazal Wahid <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+# 👋Hello, I'm Fazal Wahid <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 **`AI Engineer (Intelligent Systems/Automation/RAG)`**
 ---
@@ -8,7 +8,7 @@ I'm an AI Engineer specializing in building production-ready intelligent systems
 
 Currently at **Tech Emulsion**, I focus on moving AI out of the playground and into production, building RAG-based systems, autonomous agents, and automation workflows that solve actual business problems.
 
-## 🚀 What I'm Focused On
+## What I'm Focused On
 
 - Building **Autonomous AI Agents** that can use tools and make decisions beyond simple prompts
 - Designing **RAG systems** with proper context retrieval using LangChain, vector databases (FAISS), and LLMs
@@ -16,7 +16,7 @@ Currently at **Tech Emulsion**, I focus on moving AI out of the playground and i
 - Implementing **Scalable RAG** architectures that maintain context without hallucinations
 - Developing **Multi-Agent Systems** for complex task orchestration
 
-## 💡 Ask Me About
+## Ask Me About
 - **AI Agent Development**: Building systems that use tools, make decisions, and operate autonomously
 - **RAG Systems**: LangChain, LangGraph, vector databases, semantic search, context management
 - **LLM Integration**: Working with Groq, OpenAI, Huawei Cloud APIs for production systems
@@ -26,7 +26,7 @@ Currently at **Tech Emulsion**, I focus on moving AI out of the playground and i
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-## ⚡ GitHub Activity Graph
+## GitHub Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fazalkhan09&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
@@ -50,13 +50,13 @@ Currently at **Tech Emulsion**, I focus on moving AI out of the playground and i
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-## 🌐 Connect With Me:
+## Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/fazal-wahid-627559347)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fazalkhan09)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fazalwahid16203@gmail.com)
 
 <details>
-<summary><h3>💻 Fazal's AI Journey</h3></summary>
+<summary><h3>Fazal's AI Journey</h3></summary>
 I started with the fundamentals—Python, algorithms, and data structures. Then moved into machine learning, building models for classification, regression, and NLP tasks using scikit-learn, TensorFlow, and PyTorch.
 
 As AI evolved from simple ML models to LLMs, I shifted focus to what I call "applied AI engineering"—taking these powerful models and making them actually useful. That meant learning LangChain, building RAG systems that don't hallucinate, designing multi-agent workflows, and integrating everything into production environments.
