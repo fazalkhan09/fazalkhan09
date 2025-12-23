@@ -68,19 +68,6 @@ The gap I'm bridging isn't technical—it's practical. It's the difference betwe
 
 <hr>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fazalkhan09&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fazalkhan09&theme=radical" alt="GitHub Streaks" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fazalkhan09&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
 
