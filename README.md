@@ -1,4 +1,4 @@
-![MasterHead]([https://forum.level1techs.com/t/fermios-an-os-development-for-raspi-3/135965](https://forum.level1techs.com/uploads/default/original/3X/3/3/33bb2abd486ea3909d7346bb2296e420a6d819c8.gif))
+![MasterHead](https://forum.level1techs.com/uploads/default/original/3X/3/3/33bb2abd486ea3909d7346bb2296e420a6d819c8.gif)
 
 # 👋Hello, I'm Fazal Wahid <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
