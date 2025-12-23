@@ -1,7 +1,4 @@
 ![MasterHead](https://forum.level1techs.com/uploads/default/original/3X/3/3/33bb2abd486ea3909d7346bb2296e420a6d819c8.gif)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/fazalkhan09/fazalkhan09/main/header.png" width="100%" style="max-width: 100%;">
-</p>
 
 # 👋Hello, I'm Fazal Wahid <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
