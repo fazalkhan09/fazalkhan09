@@ -1,4 +1,4 @@
-![MasterHead](![33bb2abd486ea3909d7346bb2296e420a6d819c8](https://github.com/user-attachments/assets/4371ad12-0e52-4ca0-b187-5983696d03a3)
+[33bb2abd486ea3909d7346bb2296e420a6d819c8](https://github.com/user-attachments/assets/4371ad12-0e52-4ca0-b187-5983696d03a3)
 
 # 👋 Hello, I'm Fazal Wahid <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
